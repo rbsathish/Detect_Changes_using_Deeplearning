@@ -1,2 +1,3 @@
 # Detect_Changes
-Siamese network - Detect the changes from the two given input images.
+Siamese network - Detect the changes from the two given input images. 
+VGG19 
